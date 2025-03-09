@@ -1,0 +1,14 @@
+<!DOCTYPE HTML>
+<html><head><title>(((arg;title;50 scratch tabs)))</title><link rel="stylesheet" href="/index.css">(((arg;headcontent;)))</head>
+<body>
+<nav class="navbar"><h1>50_scratch_tabs</h1></nav>
+<div class="main-container">
+<h2>(((arg;appname;App name)))</h2><div class="container">
+<h3>(((arg;mainheading;Main heading)))</h3>(((arg;content;App content)))</div>
+</div>
+  <center><div style="font-style: italic;color: gray;">(((arg;bottom;)))</div></center>
+<script>
+(((arg;script;)))
+</script>
+</body>
+</html>
