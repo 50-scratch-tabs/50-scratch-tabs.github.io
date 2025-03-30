@@ -1,0 +1,7 @@
+(((route;404.js)))
+window.onload=()=>{
+  let misspell=(((misspell)));
+  if (Object.keys(misspell).contains(window.location.path)) {
+    alert("Did you mean "+misspell[window.location.path]+"?");
+  }
+}
