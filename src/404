@@ -2,6 +2,6 @@
 (((boilerplate;title=Whoops!;appname=50 scratch tabs;mainheading=File not found;content=
 You've requested a page that couldn't be found.
 <br><a href="/">Go home</a>
-<div id="didyoumean" style="display: none;">Did you mean to visit <a href="#" id="didyoumeanlink"></a>?</div>
+<div id="didyoumean" style="display: none((()));">Did you mean to visit <a href="#" id="didyoumeanlink"></a>?</div>
 <script src="/404.js"></script>
 )))
